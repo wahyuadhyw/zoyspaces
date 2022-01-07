@@ -11,16 +11,6 @@
   background-color: #0099ff;
 }
 
-#about-details {
-  margin-left: 5%;
-  margin-right: 5%;
-}
-
-#maps-details {
-  margin-left: 3%;
-  margin-right: 3%;
-}
-
 .map-responsive {
   overflow: hidden;
   padding-bottom: 56.25%;
